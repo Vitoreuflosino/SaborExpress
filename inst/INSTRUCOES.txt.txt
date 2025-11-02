@@ -1,0 +1,11 @@
+PASSO A PASSO PARA RODAR O PROJETO SABOR EXPRESS
+
+1. Instale o Python (versão 3.8 ou superior).
+2. Instale as bibliotecas necessárias
+   pip install networkx matplotlib scikit-learn numpy
+
+3. Vá até a pasta src e execute o código
+   python main.py
+
+4. Os gráficos serão salvos na pasta docs e exibidos na tela.
+5. Os dados de exemplo estão em datapontos.csv

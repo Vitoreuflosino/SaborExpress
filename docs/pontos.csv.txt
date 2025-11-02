@@ -1,0 +1,6 @@
+local,x,y
+Restaurante,1,2
+Bairro A,2,4
+Bairro B,3,5
+Bairro C,4,1
+Bairro D,5,2
